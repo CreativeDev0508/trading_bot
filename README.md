@@ -27,7 +27,7 @@ We use the definitions:
 | `bid_ask_delta < bb.lower` | long     |
 
 A full analysis of this strategy along with its limitations in
-[dineshpinto/market-analytics](https://github.com/dineshpinto/market-analytics).
+[dineshpinto/market-analytics](https://github.com/CreativeDev0508/market-analytics).
 
 ## Installation
 
@@ -36,13 +36,13 @@ A full analysis of this strategy along with its limitations in
 #### With Git
 
 ```shell
-git clone https://github.com/dineshpinto/orderbook-delta-bot.git
+git clone https://github.com/CreativeDev0508/orderbook-delta-bot.git
 ```
 
 #### With GitHub CLI
 
 ```shell
-gh repo clone dineshpinto/orderbook-delta-bot
+gh repo clone CreativeDev0508/orderbook-delta-bot
 ```
 
 ### Set up bot
